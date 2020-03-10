@@ -9,4 +9,4 @@ Working only under Windows XP :( <br>
 Video of Gameplay: https://www.youtube.com/watch?v=G__Qhrms1fw
 
 
-### By Denis Astahov 2014.
+### By Denis Astahov 2004.
